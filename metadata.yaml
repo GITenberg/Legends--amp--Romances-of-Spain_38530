@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5707
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38530#Legends--amp--Romances-of-Spain
 gutenberg_issued: '2012-01-08'
 gutenberg_type: Text
 identifiers:
